@@ -84,15 +84,15 @@ Start with the word w(i-3).
 Perform a ROTWORD operation (a left circular shift) on it.
 Apply a SubBytes transformation to the result.
 XOR the SubBytes result with predefined RCon constants based on the round number.
-# Example of t(i) calculation for w4
+Example of t(i) calculation for w4
 t4 = SubBytes(ROTWORD(w1)) XOR RCon[round_number]
 RCon Constants:
 RCon constants are predefined values used in the key generation process. They depend on the round number and are represented in hexadecimal format.
-# Example RCon constants for AES Round 1 to 10
+Example RCon constants for AES Round 1 to 10
 RCon = [  "01", "02", "04", "08", "10", "20", "40", "80", "1B", "36" ]
 FOR OTHER WORDS (E.G., W5, W6, W7, W9, W10, W11, ETC.):
 Calculate w(i) as the XOR of w(i-1) and w(i-4).
-# Example of w5 calculation
+Example of w5 calculation
 w5 = w4 XOR w1
 
 
