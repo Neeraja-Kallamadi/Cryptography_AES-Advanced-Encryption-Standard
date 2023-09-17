@@ -1,4 +1,4 @@
-# AES-Advanced-Encryption-Standard-
+# AES-Advanced-Encryption-Standard
 AES ALGORITHM PROCEDURE:
 KEY EXPANSION:
 AES begins by expanding a user-provided encryption key.
