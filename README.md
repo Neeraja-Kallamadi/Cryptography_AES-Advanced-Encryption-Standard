@@ -98,7 +98,19 @@ w5 = w4 XOR w1
 
 OUTPUT:
 
-![aes_example1](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/8a04b0af-9cbd-4b8a-8b70-1caefa7a7a4f)
+![aes_algorithm1](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/03dd028c-c29c-418f-85bf-db563513cb59)
+
+![aes_algorithm2](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/5956dd93-cc99-4c28-b72d-b3bdb436c709)
+
+![aes_algorithm3](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/9aec7994-da0b-4fdb-8439-1e5650147158)
+
+![aes_algorithm4](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/f14cc95f-aee4-424c-8b47-f70c08b77d5c)
+
+![aes_algorithm5](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/4ad38694-d3ce-4076-ae87-e797efd8ef11)
+
+![ae![aes_algorithm6](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/5aeba7d2-f10e-41c3-9772-ef175996d097)
+
+![aes_example1](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/907b5365-d29e-429d-99c9-69aaab7df2c0)
 
 ![aes_example2](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/f5aecf2a-60d2-4c0f-aaeb-a57ac9f1739b)
 
