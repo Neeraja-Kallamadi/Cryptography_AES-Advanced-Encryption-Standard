@@ -1,4 +1,4 @@
-# AES-Advanced-Encryption-Standard
+# AES (ADVANCED ENCRYPTION STANDARD)
 AES ALGORITHM PROCEDURE:
 KEY EXPANSION:
 AES begins by expanding a user-provided encryption key.
@@ -96,7 +96,7 @@ Example of w5 calculation
 w5 = w4 XOR w1
 
 
-OUTPUT:
+# OUTPUT:
 
 ![aes_algorithm1](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/03dd028c-c29c-418f-85bf-db563513cb59)
 
