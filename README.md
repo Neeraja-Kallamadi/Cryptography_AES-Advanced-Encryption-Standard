@@ -95,9 +95,6 @@ Calculate w(i) as the XOR of w(i-1) and w(i-4).
 Example of w5 calculation
 w5 = w4 XOR w1
 
-
-# OUTPUT:
-
 ![aes_algorithm1](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/03dd028c-c29c-418f-85bf-db563513cb59)
 
 ![aes_algorithm2](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/5956dd93-cc99-4c28-b72d-b3bdb436c709)
@@ -109,6 +106,8 @@ w5 = w4 XOR w1
 ![aes_algorithm5](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/4ad38694-d3ce-4076-ae87-e797efd8ef11)
 
 ![ae![aes_algorithm6](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/5aeba7d2-f10e-41c3-9772-ef175996d097)
+
+# OUTPUT:
 
 ![aes_example1](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/907b5365-d29e-429d-99c9-69aaab7df2c0)
 
