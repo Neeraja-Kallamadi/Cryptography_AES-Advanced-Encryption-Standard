@@ -105,7 +105,7 @@ w5 = w4 XOR w1
 
 ![aes_algorithm5](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/4ad38694-d3ce-4076-ae87-e797efd8ef11)
 
-![ae![aes_algorithm6](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/5aeba7d2-f10e-41c3-9772-ef175996d097)
+![aes_algorithm6](https://github.com/Neeraja-Kallamadi/AES-Advanced-Encryption-Standard-/assets/110168775/5aeba7d2-f10e-41c3-9772-ef175996d097)
 
 # OUTPUT:
 
